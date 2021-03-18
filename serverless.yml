@@ -1,0 +1,10 @@
+org: farvher
+app: web-page
+name: react-starter
+component: website
+
+inputs:
+  src:
+    src: ./src
+    hook: npm run build
+    dist: ./build
