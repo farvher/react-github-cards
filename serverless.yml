@@ -6,5 +6,5 @@ component: website
 inputs:
   src:
     src: ./src
-    hook: yarn build
+    hook: yarn
     dist: ./build
