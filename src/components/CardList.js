@@ -1,6 +1,4 @@
-import Card from "./Card"
-import GhForm from "./GhForm";
-
+import Card from "./Card";
 
 const CardList = (props) => {
     const profiles = props.profiles;
